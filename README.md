@@ -1,1 +1,1 @@
-http://mjtc2323.github.io/prueba1/
+http://mjtc2323.github.io/gallapintoCR/
